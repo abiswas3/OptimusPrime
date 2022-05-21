@@ -1,7 +1,4 @@
 // Just for scalars right now: Packed needs some optimistions 
-
-
-
 /// Euclids algorithm (recursive from https://www.wikiwand.com/en/Euclidean_algorithm)
 pub fn gcd(a: i64, b: i64)->(i64, i64, i64){
 
